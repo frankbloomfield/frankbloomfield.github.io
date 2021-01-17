@@ -63,7 +63,7 @@ h4{
   position:sticky;
   top:75px;
   border-top:5px solid #f0c38e;
-  align-self: flex-start;
+/*   align-self: flex-start; */
   z-index: 1;
   margin-top:50px;
 }
