@@ -63,6 +63,7 @@ h4{
   position:sticky;
   top:75px;
   border-top:5px solid #f0c38e;
+  border-bottom:5px solid #f0c38e;
   align-self: flex-start;
   z-index: 1;
   margin-top:50px;
@@ -75,7 +76,7 @@ h4{
 }
 
 .leftbank{
-  border-radius: 0 100px 0 0;
+  border-radius: 0 100px 100px 0;
   border-right: 5px solid #f0c38e;
   text-align: left;
   padding:20px;
@@ -83,7 +84,7 @@ h4{
 }
 
 .rightbank{
-  border-radius: 100px 0 0 0;
+  border-radius: 100px 0 0 100px;
   border-left: 5px solid #f0c38e;
   /* margin-top: -100px;
   margin-left: 75%; */
